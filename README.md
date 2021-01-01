@@ -1,1 +1,2 @@
-# MLCBD_Assign4_Melbourne_Housing_Proj
+# Melbourne_Housing_Project
+- Applying Linear Regression to predict house price.
